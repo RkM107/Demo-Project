@@ -4,15 +4,15 @@
   }
   
   #head-section {
-    background: url(../img/shutterstock_436846288.jpg);
+    background: url(../img/car-insurance-1.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
-    height: 600px;
+    min-height: 600px;
   }
   
   #head-section .head-inner {
-    padding-top: 450px;
+    padding-top: 410px;
     color:#F4F5F2;
     font-family:'Monda', sans-serif;
   }
